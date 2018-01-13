@@ -1,0 +1,153 @@
+
+*{
+    padding: 0px;
+    margin: 0px; 
+}
+.new{
+    background-color:#3a3a3a; 
+    padding: 2px; 
+    height: 20%; 
+    width: auto; 
+}
+.logo{
+    
+    padding-bottom: 2px; 
+    text-align: center; 
+    padding-top: 4px; 
+    
+}
+#slika{
+    width:9%; 
+    height: 12%; 
+    border-radius:50%;
+}
+.navbar.navbar-inverse{
+    background-color:#55e845; 
+    color: brown; 
+    padding-left: 60px;  
+    font-family:sans-serif;
+    font-style: bold;
+    padding: 0px;
+    margin: 0px; 
+}
+
+#slika1{
+    height: 100%; 
+    width: 100%;
+    text-align: center; 
+    border-top: solid gray 5px;
+   margin-top: 2px; 
+}
+
+body{
+    background-image: url(img/pozadina.jpg);
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+.btn.btn_success{
+    text-align: right; 
+}
+.pnaslov{
+    text-align: center; 
+    border-top: 1px solid white;
+    font-size: 40px; 
+    color: white; 
+    font: bold; 
+    border-bottom: 1px solid white;
+    
+}
+.tekst{
+    text-align: justify; 
+    font-size: 18px; 
+    padding-top: 3px; 
+    color: white; 
+    padding-bottom: 10px; 
+    margin: 5px; 
+    
+}
+#spec{
+    padding-left: 20px; 
+}
+
+#sponzor{
+     
+    margin-bottom: 30px; 
+}
+
+.foter{
+    background-color: black; 
+    color: white; 
+    
+    text-align: center; 
+    border-top: 2px solid grey; 
+    position: relative; bottom: 0px; height:150px; 
+    
+}
+#prvi{
+  padding-left:40px;
+   margin-left: 40px; 
+}
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;   
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#kon{
+    padding-bottom: 25px; 
+    padding-top: 25px; 
+}
+
+#autor{
+    width: 600px; 
+    height: 600px; 
+    padding-left: 25px; 
+    padding-top:25px; 
+    padding-bottom: 25px;
+    border-radius: 50%; 
+     
+}
+
+.biografija{
+    padding-left: 60px;
+    text-align: center; 
+    color: white; 
+    font-size: larger; 
+    padding-top: 40px; 
+    
+}
+
+
+
